@@ -1,5 +1,5 @@
 # Respositorio-Desarrollo
-git clone URL 
+-git clone URL 
 
 - git fetch
 - git pull
@@ -22,3 +22,4 @@ git clone URL
 
 - Remover todo lo de github
 - Control Panel\User Accounts\Credential Manager
+- dotnet new console -n cns_presentation
