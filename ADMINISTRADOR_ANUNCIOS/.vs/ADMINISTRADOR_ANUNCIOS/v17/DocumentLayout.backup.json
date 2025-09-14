@@ -1,21 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Sebastian\\Desktop\\Programacion\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\",
+  "WorkspaceRootPath": "C:\\Users\\tomas\\OneDrive\\Desktop\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8F08108A-FA9D-411E-BD39-1CB69C900B9E}|lib_dominio\\lib_dominio.csproj|c:\\users\\sebastian\\desktop\\programacion\\respositorio-desarrollo\\administrador_anuncios\\lib_dominio\\entidades\\subcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8F08108A-FA9D-411E-BD39-1CB69C900B9E}|lib_dominio\\lib_dominio.csproj|c:\\users\\tomas\\onedrive\\desktop\\respositorio-desarrollo\\administrador_anuncios\\lib_dominio\\entidades\\subcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F08108A-FA9D-411E-BD39-1CB69C900B9E}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\subcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F08108A-FA9D-411E-BD39-1CB69C900B9E}|lib_dominio\\lib_dominio.csproj|c:\\users\\sebastian\\desktop\\programacion\\respositorio-desarrollo\\administrador_anuncios\\lib_dominio\\entidades\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8F08108A-FA9D-411E-BD39-1CB69C900B9E}|lib_dominio\\lib_dominio.csproj|c:\\users\\tomas\\onedrive\\desktop\\respositorio-desarrollo\\administrador_anuncios\\lib_dominio\\entidades\\ubicaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F08108A-FA9D-411E-BD39-1CB69C900B9E}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\ubicaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F08108A-FA9D-411E-BD39-1CB69C900B9E}|lib_dominio\\lib_dominio.csproj|c:\\users\\tomas\\onedrive\\desktop\\respositorio-desarrollo\\administrador_anuncios\\lib_dominio\\entidades\\favoritos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F08108A-FA9D-411E-BD39-1CB69C900B9E}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\favoritos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F08108A-FA9D-411E-BD39-1CB69C900B9E}|lib_dominio\\lib_dominio.csproj|c:\\users\\tomas\\onedrive\\desktop\\respositorio-desarrollo\\administrador_anuncios\\lib_dominio\\entidades\\mensajes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F08108A-FA9D-411E-BD39-1CB69C900B9E}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\mensajes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F08108A-FA9D-411E-BD39-1CB69C900B9E}|lib_dominio\\lib_dominio.csproj|c:\\users\\tomas\\onedrive\\desktop\\respositorio-desarrollo\\administrador_anuncios\\lib_dominio\\entidades\\pagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F08108A-FA9D-411E-BD39-1CB69C900B9E}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\pagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F08108A-FA9D-411E-BD39-1CB69C900B9E}|lib_dominio\\lib_dominio.csproj|c:\\users\\tomas\\onedrive\\desktop\\respositorio-desarrollo\\administrador_anuncios\\lib_dominio\\entidades\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F08108A-FA9D-411E-BD39-1CB69C900B9E}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F08108A-FA9D-411E-BD39-1CB69C900B9E}|lib_dominio\\lib_dominio.csproj|c:\\users\\sebastian\\desktop\\programacion\\respositorio-desarrollo\\administrador_anuncios\\lib_dominio\\entidades\\anuncios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8F08108A-FA9D-411E-BD39-1CB69C900B9E}|lib_dominio\\lib_dominio.csproj|c:\\users\\tomas\\onedrive\\desktop\\respositorio-desarrollo\\administrador_anuncios\\lib_dominio\\entidades\\anuncios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F08108A-FA9D-411E-BD39-1CB69C900B9E}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\anuncios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F08108A-FA9D-411E-BD39-1CB69C900B9E}|lib_dominio\\lib_dominio.csproj|c:\\users\\sebastian\\desktop\\programacion\\respositorio-desarrollo\\administrador_anuncios\\lib_dominio\\entidades\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8F08108A-FA9D-411E-BD39-1CB69C900B9E}|lib_dominio\\lib_dominio.csproj|c:\\users\\tomas\\onedrive\\desktop\\respositorio-desarrollo\\administrador_anuncios\\lib_dominio\\entidades\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F08108A-FA9D-411E-BD39-1CB69C900B9E}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,59 +42,109 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Subcategorias.cs",
-              "DocumentMoniker": "C:\\Users\\Sebastian\\Desktop\\Programacion\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\Subcategorias.cs",
-              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Subcategorias.cs",
-              "ToolTip": "C:\\Users\\Sebastian\\Desktop\\Programacion\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\Subcategorias.cs",
-              "RelativeToolTip": "lib_dominio\\Entidades\\Subcategorias.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Pagos.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Desktop\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\Pagos.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Pagos.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Desktop\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\Pagos.cs",
+              "RelativeToolTip": "lib_dominio\\Entidades\\Pagos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T19:29:42.465Z",
+              "WhenOpened": "2025-09-14T20:09:16.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mensajes.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Desktop\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\Mensajes.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Mensajes.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Desktop\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\Mensajes.cs",
+              "RelativeToolTip": "lib_dominio\\Entidades\\Mensajes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T20:06:30.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Favoritos.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Desktop\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\Favoritos.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Favoritos.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Desktop\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\Favoritos.cs",
+              "RelativeToolTip": "lib_dominio\\Entidades\\Favoritos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T20:03:03.156Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Ubicaciones.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Desktop\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\Ubicaciones.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Ubicaciones.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Desktop\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\Ubicaciones.cs",
+              "RelativeToolTip": "lib_dominio\\Entidades\\Ubicaciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T20:00:17.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Subcategorias.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Desktop\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\Subcategorias.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Subcategorias.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Desktop\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\Subcategorias.cs",
+              "RelativeToolTip": "lib_dominio\\Entidades\\Subcategorias.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T19:56:10.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Categorias.cs",
-              "DocumentMoniker": "C:\\Users\\Sebastian\\Desktop\\Programacion\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\Categorias.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Desktop\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\Categorias.cs",
               "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Categorias.cs",
-              "ToolTip": "C:\\Users\\Sebastian\\Desktop\\Programacion\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\Categorias.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Desktop\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\Categorias.cs",
               "RelativeToolTip": "lib_dominio\\Entidades\\Categorias.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-14T19:19:55.314Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Anuncios.cs",
-              "DocumentMoniker": "C:\\Users\\Sebastian\\Desktop\\Programacion\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\Anuncios.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Desktop\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\Anuncios.cs",
               "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Anuncios.cs",
-              "ToolTip": "C:\\Users\\Sebastian\\Desktop\\Programacion\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\Anuncios.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Desktop\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\Anuncios.cs",
               "RelativeToolTip": "lib_dominio\\Entidades\\Anuncios.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T18:55:30.431Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-14T18:55:30.431Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Roles.cs",
-              "DocumentMoniker": "C:\\Users\\Sebastian\\Desktop\\Programacion\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\Roles.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Desktop\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\Roles.cs",
               "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Roles.cs",
-              "ToolTip": "C:\\Users\\Sebastian\\Desktop\\Programacion\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\Roles.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Desktop\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\Roles.cs",
               "RelativeToolTip": "lib_dominio\\Entidades\\Roles.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T18:52:25.205Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-14T18:52:25.205Z"
             },
             {
               "$type": "Bookmark",
