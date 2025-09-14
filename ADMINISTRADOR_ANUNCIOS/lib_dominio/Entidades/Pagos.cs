@@ -17,7 +17,7 @@ namespace lib_dominio.Entidades
 
         public string? metodo_pago { get; set; }
 
-        public int hola; 
+        
 
     }
 }

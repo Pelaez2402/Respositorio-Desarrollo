@@ -16,6 +16,13 @@ namespace lib_repositorios.Implementaciones
             optionsBuilder.UseQueryTrackingBehavior(QueryTrackingBehavior.NoTracking);
         }
 
-        public DbSet<Notas>? Notas { get; set; }
+        public DbSet<Usuarios>? Usuarios { get; set; }
+        public DbSet<Roles>? Roles { get; set; }
+        public DbSet<Pagos>? Pagos { get; set; }
+        public DbSet<Ubicaciones>? Ubicaciones { get; set; }
+        public DbSet<Subcategorias>? Subcategorias { get; set; }
+        public DbSet<Favoritos>? Favoritos { get; set; }
+        public DbSet<Mensajes>? Mensajes { get; set; }
+        public DbSet<Anuncios>? Anuncios { get; set; }
     }
 }

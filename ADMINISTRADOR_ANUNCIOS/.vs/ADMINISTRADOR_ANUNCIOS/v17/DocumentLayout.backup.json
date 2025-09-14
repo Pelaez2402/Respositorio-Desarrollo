@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Sebastian\\Desktop\\Programacion\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sebastian\\Desktop\\Programacion\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\Categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lib_dominio\\Entidades\\Categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24A4ACDF-BC67-418F-A0FD-4372C4744CA7}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\sebastian\\desktop\\programacion\\respositorio-desarrollo\\administrador_anuncios\\lib_repositorios\\implementaciones\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24A4ACDF-BC67-418F-A0FD-4372C4744CA7}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\implementaciones\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sebastian\\Desktop\\Programacion\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\Anuncios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lib_dominio\\Entidades\\Anuncios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sebastian\\Desktop\\Programacion\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\Roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lib_dominio\\Entidades\\Roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24A4ACDF-BC67-418F-A0FD-4372C4744CA7}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\sebastian\\desktop\\programacion\\respositorio-desarrollo\\administrador_anuncios\\lib_repositorios\\interfaces\\iconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24A4ACDF-BC67-418F-A0FD-4372C4744CA7}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\interfaces\\iconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,39 +35,28 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Categorias.cs",
-              "DocumentMoniker": "C:\\Users\\Sebastian\\Desktop\\Programacion\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\Categorias.cs",
-              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Categorias.cs",
-              "ToolTip": "C:\\Users\\Sebastian\\Desktop\\Programacion\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\Categorias.cs",
-              "RelativeToolTip": "lib_dominio\\Entidades\\Categorias.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastian\\Desktop\\Programacion\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_repositorios\\Implementaciones\\Conexion.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\Conexion.cs",
+              "ToolTip": "C:\\Users\\Sebastian\\Desktop\\Programacion\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_repositorios\\Implementaciones\\Conexion.cs",
+              "RelativeToolTip": "lib_repositorios\\Implementaciones\\Conexion.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAgAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T19:19:55.314Z",
+              "WhenOpened": "2025-09-14T21:31:35.795Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Anuncios.cs",
-              "DocumentMoniker": "C:\\Users\\Sebastian\\Desktop\\Programacion\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\Anuncios.cs",
-              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Anuncios.cs",
-              "ToolTip": "C:\\Users\\Sebastian\\Desktop\\Programacion\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\Anuncios.cs",
-              "RelativeToolTip": "lib_dominio\\Entidades\\Anuncios.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Title": "IConexion.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastian\\Desktop\\Programacion\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_repositorios\\Interfaces\\IConexion.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Interfaces\\IConexion.cs",
+              "ToolTip": "C:\\Users\\Sebastian\\Desktop\\Programacion\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_repositorios\\Interfaces\\IConexion.cs",
+              "RelativeToolTip": "lib_repositorios\\Interfaces\\IConexion.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T18:55:30.431Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Roles.cs",
-              "DocumentMoniker": "C:\\Users\\Sebastian\\Desktop\\Programacion\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\Roles.cs",
-              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Roles.cs",
-              "ToolTip": "C:\\Users\\Sebastian\\Desktop\\Programacion\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\Roles.cs",
-              "RelativeToolTip": "lib_dominio\\Entidades\\Roles.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T18:52:25.205Z"
+              "WhenOpened": "2025-09-14T21:25:46.491Z",
+              "EditorCaption": ""
             }
           ]
         }
