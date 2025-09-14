@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Sebastian\\Desktop\\Programacion\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8F08108A-FA9D-411E-BD39-1CB69C900B9E}|lib_dominio\\lib_dominio.csproj|c:\\users\\sebastian\\desktop\\programacion\\respositorio-desarrollo\\administrador_anuncios\\lib_dominio\\entidades\\subcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F08108A-FA9D-411E-BD39-1CB69C900B9E}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\subcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sebastian\\Desktop\\Programacion\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\Categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lib_dominio\\Entidades\\Categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F08108A-FA9D-411E-BD39-1CB69C900B9E}|lib_dominio\\lib_dominio.csproj|c:\\users\\sebastian\\desktop\\programacion\\respositorio-desarrollo\\administrador_anuncios\\lib_dominio\\entidades\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F08108A-FA9D-411E-BD39-1CB69C900B9E}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sebastian\\Desktop\\Programacion\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\Anuncios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lib_dominio\\Entidades\\Anuncios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F08108A-FA9D-411E-BD39-1CB69C900B9E}|lib_dominio\\lib_dominio.csproj|c:\\users\\sebastian\\desktop\\programacion\\respositorio-desarrollo\\administrador_anuncios\\lib_dominio\\entidades\\anuncios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F08108A-FA9D-411E-BD39-1CB69C900B9E}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\anuncios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F08108A-FA9D-411E-BD39-1CB69C900B9E}|lib_dominio\\lib_dominio.csproj|c:\\users\\sebastian\\desktop\\programacion\\respositorio-desarrollo\\administrador_anuncios\\lib_dominio\\entidades\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F08108A-FA9D-411E-BD39-1CB69C900B9E}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sebastian\\Desktop\\Programacion\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\Roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lib_dominio\\Entidades\\Roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +22,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Subcategorias.cs",
-              "DocumentMoniker": "C:\\Users\\Sebastian\\Desktop\\Programacion\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\Subcategorias.cs",
-              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Subcategorias.cs",
-              "ToolTip": "C:\\Users\\Sebastian\\Desktop\\Programacion\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\Subcategorias.cs",
-              "RelativeToolTip": "lib_dominio\\Entidades\\Subcategorias.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T19:29:42.465Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Categorias.cs",
               "DocumentMoniker": "C:\\Users\\Sebastian\\Desktop\\Programacion\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\Categorias.cs",
               "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Categorias.cs",
@@ -56,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Anuncios.cs",
               "DocumentMoniker": "C:\\Users\\Sebastian\\Desktop\\Programacion\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\Anuncios.cs",
               "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Anuncios.cs",
@@ -64,12 +59,11 @@
               "RelativeToolTip": "lib_dominio\\Entidades\\Anuncios.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T18:55:30.431Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-14T18:55:30.431Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Roles.cs",
               "DocumentMoniker": "C:\\Users\\Sebastian\\Desktop\\Programacion\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\Roles.cs",
               "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Roles.cs",
@@ -77,20 +71,7 @@
               "RelativeToolTip": "lib_dominio\\Entidades\\Roles.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T18:52:25.205Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "WhenOpened": "2025-09-14T18:52:25.205Z"
             }
           ]
         }
