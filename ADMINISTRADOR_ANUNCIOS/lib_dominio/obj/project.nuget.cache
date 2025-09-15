@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "xTG+MBJm7eg=",
+  "dgSpecHash": "hbElqmNCNh0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sebastian\\Desktop\\Programacion\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\lib_dominio.csproj",
+  "projectFilePath": "C:\\Users\\tomas\\OneDrive\\Desktop\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\lib_dominio.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Sebastian\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+    "C:\\Users\\tomas\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }

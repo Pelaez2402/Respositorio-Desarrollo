@@ -1,4 +1,4 @@
-﻿
+﻿    
 
 namespace lib_dominio.Entidades
 {
@@ -8,6 +8,6 @@ namespace lib_dominio.Entidades
         public string? Nombre { get; set; }
         public decimal Precio { get; set; }
         public int Duracion { get; set; }
-        public string? Descripcio { get; set; }
+        public string? Descripcion { get; set; }
     }
 }
