@@ -4,11 +4,11 @@ namespace lib_dominio.Entidades
 {
     public  class Categorias
     {
-        public int id_categoria { get; set; }
-        public string? nombre { get; set; }
-        public string? descripcion { get; set; }
-        public DateTime fecha_creacion { get; set; }
-        public bool activo { get; set; }
+        public int CategoriaID { get; set; }
+        public string? Nombre { get; set; }
+        public string? Descripcion { get; set; }
+        public DateTime FechaCreacion { get; set; }
+        public bool Activo { get; set; }
         
     }
 }

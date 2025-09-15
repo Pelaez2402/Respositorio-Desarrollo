@@ -9,5 +9,10 @@ namespace lib_dominio.Entidades
         public string? contraseña { get; set; }
         public string? telefono { get; set; }
         public DateTime fecha_registro { get; set; }
+
+
+        public List<Anuncios> Anuncios { get; set; } = new();
+        public List<UsuariosRoles> UsuariosRoles { get; set; } = new();
+        public List<Favoritos> Favoritos { get; set; } = new();
     }
 }

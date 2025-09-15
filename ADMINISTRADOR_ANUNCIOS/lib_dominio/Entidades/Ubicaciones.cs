@@ -3,16 +3,16 @@ namespace lib_dominio.Entidades
 {
     public class Ubicaciones
     {
-        public int id_ubicacion { get; set; }
+        public int UbicacionID { get; set; }
 
-        public string? nombre { get; set; }
+        public string? Nombre { get; set; }
 
-        public string? direccion { get; set; }
+        public string? Direccion { get; set; }
 
-        public string? ciudad { get; set; }
+        public string? Ciudad { get; set; }
+        public string? Pais { get; set; }
 
-
-        public string? pais { get; set; }
+        public List<AnunciosUbicaciones> AnunciosUbicaciones { get; set; } = new();
 
 
     }

@@ -4,15 +4,14 @@ namespace lib_dominio.Entidades
 {
     public  class Favoritos
     {
-        public int id_usuario { get; set; }
+        public int UsuarioID { get; set; }
+        public Usuarios Usuarios { get; set; } = null!;
 
-        public int id_anuncio { get; set; }
-
-        public DateTime fecha_agregado { get; set; }
-
-        public string? notas { get; set; }
-
-        public bool activo { get; set; }
+        public int AnuncioID { get; set; }
+        public Anuncios Anuncios { get; set; } = null!;
+        public DateTime FechaAgregado { get; set; }
+        public string? Notas { get; set; }
+        public bool Activo { get; set; }
 
 
 

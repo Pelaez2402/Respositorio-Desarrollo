@@ -4,13 +4,16 @@ namespace lib_dominio.Entidades
 {
     public class Subcategorias
     {
-        public int id_subcategoria { get; set; }
+        public int SubcategoriaID { get; set; }
 
-        public string? nombre { get; set; }
+        public string? Nombre { get; set; }
 
-        public string? descripcion { get; set; }
+        public string? Descripcion { get; set; }
 
-        public int categoria { get; set; }
+        public int CategoriaID { get; set; }
+        public Categorias Categorias { get; set; } = null!;
+
+        public List<AnunciosSubcategorias> AnunciosSubcategorias { get; set; } = new();
 
 
     }
