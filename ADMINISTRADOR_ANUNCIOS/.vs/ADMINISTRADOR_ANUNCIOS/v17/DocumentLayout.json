@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\tomit\\OneDrive\\Escritorio\\DESARROLLO SOFTWARE\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\",
   "Documents": [
     {
@@ -63,6 +64,10 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lib_repositorios\\Interfaces\\IConexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
+=======
+  "WorkspaceRootPath": "C:\\Users\\Sebastian\\Desktop\\Programacion\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\",
+  "Documents": [],
+>>>>>>> a7283cb60ce91ee102ebfac3a0e446bf2bea8882
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -70,7 +75,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 7,
+=======
+          "SelectedChildIndex": -1,
+>>>>>>> a7283cb60ce91ee102ebfac3a0e446bf2bea8882
           "Children": [
             {
               "$type": "Bookmark",
@@ -85,6 +94,7 @@
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+<<<<<<< HEAD
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ReportesDeAnuncios.cs",
@@ -264,6 +274,10 @@
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-14T21:25:46.491Z"
+=======
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+>>>>>>> a7283cb60ce91ee102ebfac3a0e446bf2bea8882
             }
           ]
         }

@@ -1,70 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\tomit\\OneDrive\\Escritorio\\DESARROLLO SOFTWARE\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\",
+  "WorkspaceRootPath": "C:\\Users\\Sebastian\\Desktop\\Programacion\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8F08108A-FA9D-411E-BD39-1CB69C900B9E}|lib_dominio\\lib_dominio.csproj|c:\\users\\tomit\\onedrive\\escritorio\\desarrollo software\\respositorio-desarrollo\\administrador_anuncios\\lib_dominio\\entidades\\reportesdeanuncios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F08108A-FA9D-411E-BD39-1CB69C900B9E}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\reportesdeanuncios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{41F773BD-0EFA-4068-856F-8A6F42DB0AC7}|ut_presentacion\\ut_presentacion.csproj|c:\\users\\sebastian\\desktop\\programacion\\respositorio-desarrollo\\administrador_anuncios\\ut_presentacion\\nucleo\\entidadesnucleo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41F773BD-0EFA-4068-856F-8A6F42DB0AC7}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\nucleo\\entidadesnucleo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F08108A-FA9D-411E-BD39-1CB69C900B9E}|lib_dominio\\lib_dominio.csproj|c:\\users\\tomit\\onedrive\\escritorio\\desarrollo software\\respositorio-desarrollo\\administrador_anuncios\\lib_dominio\\entidades\\subcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F08108A-FA9D-411E-BD39-1CB69C900B9E}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\subcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F08108A-FA9D-411E-BD39-1CB69C900B9E}|lib_dominio\\lib_dominio.csproj|c:\\users\\tomit\\onedrive\\escritorio\\desarrollo software\\respositorio-desarrollo\\administrador_anuncios\\lib_dominio\\entidades\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8F08108A-FA9D-411E-BD39-1CB69C900B9E}|lib_dominio\\lib_dominio.csproj|c:\\users\\sebastian\\desktop\\programacion\\respositorio-desarrollo\\administrador_anuncios\\lib_dominio\\entidades\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F08108A-FA9D-411E-BD39-1CB69C900B9E}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F08108A-FA9D-411E-BD39-1CB69C900B9E}|lib_dominio\\lib_dominio.csproj|c:\\users\\tomit\\onedrive\\escritorio\\desarrollo software\\respositorio-desarrollo\\administrador_anuncios\\lib_dominio\\entidades\\mensajes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F08108A-FA9D-411E-BD39-1CB69C900B9E}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\mensajes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F08108A-FA9D-411E-BD39-1CB69C900B9E}|lib_dominio\\lib_dominio.csproj|c:\\users\\tomit\\onedrive\\escritorio\\desarrollo software\\respositorio-desarrollo\\administrador_anuncios\\lib_dominio\\entidades\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F08108A-FA9D-411E-BD39-1CB69C900B9E}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F08108A-FA9D-411E-BD39-1CB69C900B9E}|lib_dominio\\lib_dominio.csproj|c:\\users\\tomit\\onedrive\\escritorio\\desarrollo software\\respositorio-desarrollo\\administrador_anuncios\\lib_dominio\\entidades\\anuncios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F08108A-FA9D-411E-BD39-1CB69C900B9E}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\anuncios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F08108A-FA9D-411E-BD39-1CB69C900B9E}|lib_dominio\\lib_dominio.csproj|c:\\users\\tomit\\onedrive\\escritorio\\desarrollo software\\respositorio-desarrollo\\administrador_anuncios\\lib_dominio\\entidades\\anunciossubcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F08108A-FA9D-411E-BD39-1CB69C900B9E}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\anunciossubcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F08108A-FA9D-411E-BD39-1CB69C900B9E}|lib_dominio\\lib_dominio.csproj|c:\\users\\tomit\\onedrive\\escritorio\\desarrollo software\\respositorio-desarrollo\\administrador_anuncios\\lib_dominio\\entidades\\anunciosubicaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F08108A-FA9D-411E-BD39-1CB69C900B9E}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\anunciosubicaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F08108A-FA9D-411E-BD39-1CB69C900B9E}|lib_dominio\\lib_dominio.csproj|c:\\users\\tomit\\onedrive\\escritorio\\desarrollo software\\respositorio-desarrollo\\administrador_anuncios\\lib_dominio\\entidades\\usuariosroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F08108A-FA9D-411E-BD39-1CB69C900B9E}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\usuariosroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F08108A-FA9D-411E-BD39-1CB69C900B9E}|lib_dominio\\lib_dominio.csproj|c:\\users\\tomit\\onedrive\\escritorio\\desarrollo software\\respositorio-desarrollo\\administrador_anuncios\\lib_dominio\\entidades\\favoritos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F08108A-FA9D-411E-BD39-1CB69C900B9E}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\favoritos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F08108A-FA9D-411E-BD39-1CB69C900B9E}|lib_dominio\\lib_dominio.csproj|c:\\users\\tomit\\onedrive\\escritorio\\desarrollo software\\respositorio-desarrollo\\administrador_anuncios\\lib_dominio\\entidades\\ubicaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F08108A-FA9D-411E-BD39-1CB69C900B9E}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\ubicaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F08108A-FA9D-411E-BD39-1CB69C900B9E}|lib_dominio\\lib_dominio.csproj|c:\\users\\tomit\\onedrive\\escritorio\\desarrollo software\\respositorio-desarrollo\\administrador_anuncios\\lib_dominio\\entidades\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F08108A-FA9D-411E-BD39-1CB69C900B9E}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24A4ACDF-BC67-418F-A0FD-4372C4744CA7}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\tomit\\onedrive\\escritorio\\desarrollo software\\respositorio-desarrollo\\administrador_anuncios\\lib_repositorios\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{24A4ACDF-BC67-418F-A0FD-4372C4744CA7}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24A4ACDF-BC67-418F-A0FD-4372C4744CA7}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\tomit\\onedrive\\escritorio\\desarrollo software\\respositorio-desarrollo\\administrador_anuncios\\lib_repositorios\\implementaciones\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24A4ACDF-BC67-418F-A0FD-4372C4744CA7}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\implementaciones\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24A4ACDF-BC67-418F-A0FD-4372C4744CA7}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\tomit\\onedrive\\escritorio\\desarrollo software\\respositorio-desarrollo\\administrador_anuncios\\lib_repositorios\\interfaces\\iconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24A4ACDF-BC67-418F-A0FD-4372C4744CA7}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\interfaces\\iconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24A4ACDF-BC67-418F-A0FD-4372C4744CA7}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\tomit\\onedrive\\escritorio\\desarrollo software\\respositorio-desarrollo\\administrador_anuncios\\lib_repositorios\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{24A4ACDF-BC67-418F-A0FD-4372C4744CA7}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,176 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ReportesDeAnuncios.cs",
-              "DocumentMoniker": "C:\\Users\\tomit\\OneDrive\\Escritorio\\DESARROLLO SOFTWARE\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\ReportesDeAnuncios.cs",
-              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\ReportesDeAnuncios.cs",
-              "ToolTip": "C:\\Users\\tomit\\OneDrive\\Escritorio\\DESARROLLO SOFTWARE\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\ReportesDeAnuncios.cs",
-              "RelativeToolTip": "lib_dominio\\Entidades\\ReportesDeAnuncios.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T00:19:21.681Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Mensajes.cs",
-              "DocumentMoniker": "C:\\Users\\tomit\\OneDrive\\Escritorio\\DESARROLLO SOFTWARE\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\Mensajes.cs",
-              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Mensajes.cs",
-              "ToolTip": "C:\\Users\\tomit\\OneDrive\\Escritorio\\DESARROLLO SOFTWARE\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\Mensajes.cs",
-              "RelativeToolTip": "lib_dominio\\Entidades\\Mensajes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T00:11:23.56Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Anuncios.cs",
-              "DocumentMoniker": "C:\\Users\\tomit\\OneDrive\\Escritorio\\DESARROLLO SOFTWARE\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\Anuncios.cs",
-              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Anuncios.cs",
-              "ToolTip": "C:\\Users\\tomit\\OneDrive\\Escritorio\\DESARROLLO SOFTWARE\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\Anuncios.cs",
-              "RelativeToolTip": "lib_dominio\\Entidades\\Anuncios.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T23:34:28.74Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AnunciosSubcategorias.cs",
-              "DocumentMoniker": "C:\\Users\\tomit\\OneDrive\\Escritorio\\DESARROLLO SOFTWARE\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\AnunciosSubcategorias.cs",
-              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\AnunciosSubcategorias.cs",
-              "ToolTip": "C:\\Users\\tomit\\OneDrive\\Escritorio\\DESARROLLO SOFTWARE\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\AnunciosSubcategorias.cs",
-              "RelativeToolTip": "lib_dominio\\Entidades\\AnunciosSubcategorias.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T23:57:07.647Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Subcategorias.cs",
-              "DocumentMoniker": "C:\\Users\\tomit\\OneDrive\\Escritorio\\DESARROLLO SOFTWARE\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\Subcategorias.cs",
-              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Subcategorias.cs",
-              "ToolTip": "C:\\Users\\tomit\\OneDrive\\Escritorio\\DESARROLLO SOFTWARE\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\Subcategorias.cs",
-              "RelativeToolTip": "lib_dominio\\Entidades\\Subcategorias.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T23:59:54.513Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AnunciosUbicaciones.cs",
-              "DocumentMoniker": "C:\\Users\\tomit\\OneDrive\\Escritorio\\DESARROLLO SOFTWARE\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\AnunciosUbicaciones.cs",
-              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\AnunciosUbicaciones.cs",
-              "ToolTip": "C:\\Users\\tomit\\OneDrive\\Escritorio\\DESARROLLO SOFTWARE\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\AnunciosUbicaciones.cs",
-              "RelativeToolTip": "lib_dominio\\Entidades\\AnunciosUbicaciones.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T00:02:38.106Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Usuarios.cs",
-              "DocumentMoniker": "C:\\Users\\tomit\\OneDrive\\Escritorio\\DESARROLLO SOFTWARE\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\Usuarios.cs",
-              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Usuarios.cs",
-              "ToolTip": "C:\\Users\\tomit\\OneDrive\\Escritorio\\DESARROLLO SOFTWARE\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\Usuarios.cs",
-              "RelativeToolTip": "lib_dominio\\Entidades\\Usuarios.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T23:36:59.827Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UsuariosRoles.cs",
-              "DocumentMoniker": "C:\\Users\\tomit\\OneDrive\\Escritorio\\DESARROLLO SOFTWARE\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\UsuariosRoles.cs",
-              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\UsuariosRoles.cs",
-              "ToolTip": "C:\\Users\\tomit\\OneDrive\\Escritorio\\DESARROLLO SOFTWARE\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\UsuariosRoles.cs",
-              "RelativeToolTip": "lib_dominio\\Entidades\\UsuariosRoles.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T23:41:35.376Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Roles.cs",
-              "DocumentMoniker": "C:\\Users\\tomit\\OneDrive\\Escritorio\\DESARROLLO SOFTWARE\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\Roles.cs",
-              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Roles.cs",
-              "ToolTip": "C:\\Users\\tomit\\OneDrive\\Escritorio\\DESARROLLO SOFTWARE\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\Roles.cs",
-              "RelativeToolTip": "lib_dominio\\Entidades\\Roles.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAiwA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T23:40:58.151Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Favoritos.cs",
-              "DocumentMoniker": "C:\\Users\\tomit\\OneDrive\\Escritorio\\DESARROLLO SOFTWARE\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\Favoritos.cs",
-              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Favoritos.cs",
-              "ToolTip": "C:\\Users\\tomit\\OneDrive\\Escritorio\\DESARROLLO SOFTWARE\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\Favoritos.cs",
-              "RelativeToolTip": "lib_dominio\\Entidades\\Favoritos.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T23:38:05.865Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Ubicaciones.cs",
-              "DocumentMoniker": "C:\\Users\\tomit\\OneDrive\\Escritorio\\DESARROLLO SOFTWARE\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\Ubicaciones.cs",
-              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Ubicaciones.cs",
-              "ToolTip": "C:\\Users\\tomit\\OneDrive\\Escritorio\\DESARROLLO SOFTWARE\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\Ubicaciones.cs",
-              "RelativeToolTip": "lib_dominio\\Entidades\\Ubicaciones.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T00:04:05.052Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Categorias.cs",
-              "DocumentMoniker": "C:\\Users\\tomit\\OneDrive\\Escritorio\\DESARROLLO SOFTWARE\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\Categorias.cs",
-              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Categorias.cs",
-              "ToolTip": "C:\\Users\\tomit\\OneDrive\\Escritorio\\DESARROLLO SOFTWARE\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\Categorias.cs",
-              "RelativeToolTip": "lib_dominio\\Entidades\\Categorias.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T23:38:02.688Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "script.sql ",
-              "DocumentMoniker": "C:\\Users\\tomit\\OneDrive\\Escritorio\\DESARROLLO SOFTWARE\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_repositorios\\script.sql",
-              "RelativeDocumentMoniker": "lib_repositorios\\script.sql",
-              "ToolTip": "C:\\Users\\tomit\\OneDrive\\Escritorio\\DESARROLLO SOFTWARE\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_repositorios\\script.sql",
-              "RelativeToolTip": "lib_repositorios\\script.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-09-14T23:42:07.409Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -257,29 +33,34 @@
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Conexion.cs",
-              "DocumentMoniker": "C:\\Users\\tomit\\OneDrive\\Escritorio\\DESARROLLO SOFTWARE\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_repositorios\\Implementaciones\\Conexion.cs",
-              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\Conexion.cs",
-              "ToolTip": "C:\\Users\\tomit\\OneDrive\\Escritorio\\DESARROLLO SOFTWARE\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_repositorios\\Implementaciones\\Conexion.cs",
-              "RelativeToolTip": "lib_repositorios\\Implementaciones\\Conexion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastian\\Desktop\\Programacion\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\Usuarios.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\Sebastian\\Desktop\\Programacion\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_dominio\\Entidades\\Usuarios.cs",
+              "RelativeToolTip": "lib_dominio\\Entidades\\Usuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T21:31:35.795Z",
+              "WhenOpened": "2025-09-15T02:29:57.842Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IConexion.cs",
-              "DocumentMoniker": "C:\\Users\\tomit\\OneDrive\\Escritorio\\DESARROLLO SOFTWARE\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_repositorios\\Interfaces\\IConexion.cs",
-              "RelativeDocumentMoniker": "lib_repositorios\\Interfaces\\IConexion.cs",
-              "ToolTip": "C:\\Users\\tomit\\OneDrive\\Escritorio\\DESARROLLO SOFTWARE\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\lib_repositorios\\Interfaces\\IConexion.cs",
-              "RelativeToolTip": "lib_repositorios\\Interfaces\\IConexion.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAoAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "EntidadesNucleo.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastian\\Desktop\\Programacion\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\ut_presentacion\\Nucleo\\EntidadesNucleo.cs",
+              "RelativeDocumentMoniker": "ut_presentacion\\Nucleo\\EntidadesNucleo.cs",
+              "ToolTip": "C:\\Users\\Sebastian\\Desktop\\Programacion\\Respositorio-Desarrollo\\ADMINISTRADOR_ANUNCIOS\\ut_presentacion\\Nucleo\\EntidadesNucleo.cs",
+              "RelativeToolTip": "ut_presentacion\\Nucleo\\EntidadesNucleo.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAmwA0AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T21:25:46.491Z"
+              "WhenOpened": "2025-09-15T02:23:52.311Z",
+              "EditorCaption": ""
             }
           ]
         }
