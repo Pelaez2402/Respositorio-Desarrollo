@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\lib_dominio",
-    "\\lib_dominio\\Entidades"
+    "\\lib_dominio\\Entidades",
+    "\\ut_presentacion",
+    "\\ut_presentacion\\Nucleo"
   ],
-  "SelectedNode": "\\ADMINISTRADOR_ANUNCIOS.sln",
+  "SelectedNode": "\\ut_presentacion\\Nucleo\\EntidadesNucleo.cs",
   "PreviewInSolutionExplorer": false
 }

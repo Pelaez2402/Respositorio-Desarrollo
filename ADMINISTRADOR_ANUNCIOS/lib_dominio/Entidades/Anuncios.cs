@@ -1,4 +1,5 @@
-﻿        
+﻿
+
 
 namespace lib_dominio.Entidades
 {
@@ -16,6 +17,8 @@ namespace lib_dominio.Entidades
 
         public List<Favoritos> Favoritos { get; set; } = new();
         public List<AnunciosSubcategorias> AnunciosSubcategorias { get; set; } = new();
-         
+        public List<AnunciosUbicaciones> AnunciosUbicaciones { get; set; } = new();
+        public List<ImagenesAnuncios> ImagenesAnuncios { get; set; } = new();
+        public List<ReportesDeAnuncios> ReportesDeAnuncios { get; set; } = new();
     }
 }

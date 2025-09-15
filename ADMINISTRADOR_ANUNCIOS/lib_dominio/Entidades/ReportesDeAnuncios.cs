@@ -1,6 +1,6 @@
 ﻿namespace lib_dominio.Entidades
 {
-    internal class ReportesDeAnuncios
+    public class ReportesDeAnuncios
     {
         public int ReporteID { get; set; }
         public string? motivo { get; set; }

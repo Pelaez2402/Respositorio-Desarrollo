@@ -4,12 +4,12 @@ USE ANUNCIOS;
 
 -- Usuarios
 CREATE TABLE Usuarios (
-    id_usuario INT PRIMARY KEY IDENTITY(1,1),
-    nombre NVARCHAR(100) NOT NULL,  
-    correo NVARCHAR(150) UNIQUE NOT NULL,
-    contraseña NVARCHAR(255) NOT NULL,
-    telefono NVARCHAR(20),
-    fecha_registro DATETIME NOT NULL DEFAULT GETDATE()
+    UsuarioID INT PRIMARY KEY IDENTITY(1,1),
+    Nombre NVARCHAR(100) NOT NULL,  
+    Correo NVARCHAR(150) UNIQUE NOT NULL,
+    Contraseña NVARCHAR(255) NOT NULL,
+    Telefono NVARCHAR(20),
+    Fecha_registro DATETIME NOT NULL DEFAULT GETDATE()
 
 );
 GO
@@ -32,7 +32,7 @@ CREATE TABLE UsuariosRoles (
     AsignadoPor NVARCHAR(100),
     Activo BIT DEFAULT 1,
     PRIMARY KEY (UsuarioID, RolID),
-    FOREIGN KEY (UsuarioID) REFERENCES Usuarios(id_usuario),
+    FOREIGN KEY (UsuarioID) REFERENCES Usuarios(UsuarioID),
     FOREIGN KEY (RolID) REFERENCES Roles(RolID)
 );
 GO
@@ -66,7 +66,7 @@ CREATE TABLE Anuncios (
     FechaPublicacion DATETIME DEFAULT GETDATE(),
     UsuarioID INT NOT NULL,
     Estado BIT DEFAULT 1,
-    FOREIGN KEY (UsuarioID) REFERENCES Usuarios(id_usuario)
+    FOREIGN KEY (UsuarioID) REFERENCES Usuarios(UsuarioID)
 );
 GO
 
@@ -108,7 +108,7 @@ GO
 -- ImagenesAnuncios
 CREATE TABLE ImagenesAnuncios (
     ImagenID INT PRIMARY KEY IDENTITY(1,1),
-    url NVARCHAR(255) NOT NULL,
+    Url NVARCHAR(255) NOT NULL,
     AnuncioID INT NOT NULL,
     Titulo NVARCHAR(100),
     FOREIGN KEY (AnuncioID) REFERENCES Anuncios(AnuncioID)
@@ -123,7 +123,7 @@ CREATE TABLE Favoritos (
     Notas NVARCHAR(255),
     Activo BIT DEFAULT 1,
     PRIMARY KEY (UsuarioID, AnuncioID),
-    FOREIGN KEY (UsuarioID) REFERENCES Usuarios(id_usuario),
+    FOREIGN KEY (UsuarioID) REFERENCES Usuarios(UsuarioID),
     FOREIGN KEY (AnuncioID) REFERENCES Anuncios(AnuncioID)
 );
 GO
@@ -136,8 +136,8 @@ CREATE TABLE Mensajes (
     UsuarioEmisorID INT NOT NULL,
     UsuarioReceptorID INT NOT NULL,
     Leido BIT DEFAULT 0,
-    FOREIGN KEY (UsuarioEmisorID) REFERENCES Usuarios(id_usuario),
-    FOREIGN KEY (UsuarioReceptorID) REFERENCES Usuarios(id_usuario)
+    FOREIGN KEY (UsuarioEmisorID) REFERENCES Usuarios(UsuarioID),
+    FOREIGN KEY (UsuarioReceptorID) REFERENCES Usuarios(UsuarioID)
 );
 GO
 
@@ -149,7 +149,7 @@ CREATE TABLE ReportesDeAnuncios (
     UsuarioID INT NOT NULL,
     AnuncioID INT NOT NULL,
     Estado BIT DEFAULT 0,
-    FOREIGN KEY (UsuarioID) REFERENCES Usuarios(id_usuario),
+    FOREIGN KEY (UsuarioID) REFERENCES Usuarios(UsuarioID),
     FOREIGN KEY (AnuncioID) REFERENCES Anuncios(AnuncioID)
 );
 GO
@@ -166,14 +166,14 @@ GO
 
 -- Pagos
 CREATE TABLE Pagos (
-    id_pago INT PRIMARY KEY IDENTITY(1,1),
-    monto DECIMAL(10,2) NOT NULL,
-    id_usuario INT NOT NULL,
-    id_plan INT NOT NULL,
-    fecha_pago DATETIME DEFAULT GETDATE(),
-    metodo_pago NVARCHAR(50),
-    FOREIGN KEY (id_usuario) REFERENCES Usuarios(id_usuario),
-    FOREIGN KEY (id_plan) REFERENCES PlanesDePublicacion(PlanID)
+    PagoID INT PRIMARY KEY IDENTITY(1,1),
+    Monto DECIMAL(10,2) NOT NULL,
+    UsuarioID INT NOT NULL,
+    PlanID INT NOT NULL,
+    FechaPago DATETIME DEFAULT GETDATE(),
+    MetodoPago NVARCHAR(50),
+    FOREIGN KEY (UsuarioID) REFERENCES Usuarios(UsuarioID),
+    FOREIGN KEY (PlanID) REFERENCES PlanesDePublicacion(PlanID)
 );
 GO
 

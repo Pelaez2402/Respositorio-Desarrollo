@@ -1,0 +1,6 @@
+C:\Users\Sebastian\Desktop\Programacion\Respositorio-Desarrollo\ADMINISTRADOR_ANUNCIOS\lib_repositorios\obj\Debug\net8.0\lib_repositorios.csproj.AssemblyReference.cache
+C:\Users\Sebastian\Desktop\Programacion\Respositorio-Desarrollo\ADMINISTRADOR_ANUNCIOS\lib_repositorios\obj\Debug\net8.0\lib_repositorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebastian\Desktop\Programacion\Respositorio-Desarrollo\ADMINISTRADOR_ANUNCIOS\lib_repositorios\obj\Debug\net8.0\lib_repositorios.AssemblyInfoInputs.cache
+C:\Users\Sebastian\Desktop\Programacion\Respositorio-Desarrollo\ADMINISTRADOR_ANUNCIOS\lib_repositorios\obj\Debug\net8.0\lib_repositorios.AssemblyInfo.cs
+C:\Users\Sebastian\Desktop\Programacion\Respositorio-Desarrollo\ADMINISTRADOR_ANUNCIOS\lib_repositorios\obj\Debug\net8.0\lib_repositorios.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Desktop\Programacion\Respositorio-Desarrollo\ADMINISTRADOR_ANUNCIOS\lib_repositorios\obj\Debug\net8.0\lib_repositorios.sourcelink.json

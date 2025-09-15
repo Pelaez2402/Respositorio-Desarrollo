@@ -9,5 +9,7 @@ namespace lib_dominio.Entidades
         public decimal Precio { get; set; }
         public int Duracion { get; set; }
         public string? Descripcion { get; set; }
+
+        public List<Pagos> Pagos { get; set; } = new();
     }
 }

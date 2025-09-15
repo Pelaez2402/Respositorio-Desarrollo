@@ -4,18 +4,18 @@ namespace lib_dominio.Entidades
 {
     public class Pagos
     {
-        public int id_pago { get; set; }
+        public int PagoID { get; set; }
 
-        public decimal monto { get; set; }
+        public decimal Monto { get; set; }
 
 
-        public int id_usuario { get; set; }
+        public int UsuarioID { get; set; }
+        public Usuarios Usuarios { get; set; } = null!;
+        public int PlanID { get; set; }
+        public PlanesDePublicacion PlanesDePublicacion { get; set; } = null!;
+        public DateTime FechaPago { get; set; }
 
-        public int id_plan { get; set; }
-
-        public DateTime fecha_pago { get; set; }
-
-        public string? metodo_pago { get; set; }
+        public string? MetodoPago { get; set; }
 
         
 
