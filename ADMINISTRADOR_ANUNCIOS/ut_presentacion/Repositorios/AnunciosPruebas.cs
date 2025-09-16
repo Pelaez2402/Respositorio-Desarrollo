@@ -34,11 +34,11 @@ namespace ut_presentacion.Repositorios
         {
             this.entidad = EntidadesNucleo.Anuncios()!;
             this.iConexion!.Anuncios!.Add(this.entidad); this.iConexion!.SaveChanges();
-            return true;
+            return true;    
         }
         public bool Modificar()
         {
-            this.entidad!.AnuncioID = ();
+            this.entidad!.AnuncioID = (this.entidad.AnuncioID);
             var entry = this.iConexion!.Entry<Anuncios>(this.entidad); entry.State = EntityState.Modified; 
             this.iConexion!.SaveChanges();
             return true;
